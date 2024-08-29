@@ -1,4 +1,4 @@
-# ERP-Mini-Project
+# ERP Mini Project
 
 **Project Description:**
 
